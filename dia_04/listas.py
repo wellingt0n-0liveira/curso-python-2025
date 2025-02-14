@@ -93,8 +93,12 @@ teo[:4] # indicie +1
 #teo[start : stop]
 
 # %%
+teo = ["teo calvo",32,
+       True,"casado",
+       ["Ana","maria","claudia"]
+       ["estag", "ds jr", "ds pl", "ds sr", "head"]]
 
 salario = teo [5]
-salario = [::-1]
+#salario = [:: - 1]
 
 #teo[start : stop : step]
